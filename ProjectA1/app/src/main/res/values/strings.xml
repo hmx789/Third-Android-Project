@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ProjectA1</string>
+    <string name="permdesc_deadlyActivity">a dangerous permission</string>
+</resources>
